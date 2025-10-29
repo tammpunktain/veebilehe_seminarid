@@ -1,0 +1,25 @@
+body, html {
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+    color: tomato;
+    font-size: 4rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+p{
+    text-align: center;
+    margin-top: 40px;
+    color: black;
+    font-size: 1.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div{
+    border-color: black;
+    border: solid 5px;
+    text-align: center ;
+}
